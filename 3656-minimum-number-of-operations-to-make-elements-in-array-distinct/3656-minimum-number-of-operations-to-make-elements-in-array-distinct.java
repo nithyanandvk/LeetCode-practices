@@ -9,7 +9,7 @@ class Solution {
         while (true) {
             b = new HashSet<>(a);
             if (a.size() != b.size()) {
-                ++c;
+                c++;
                 if (a.size() >= 3) {
                     a.remove(0);
                     a.remove(0);
