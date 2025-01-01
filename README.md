@@ -21,8 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0389-find-the-difference) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/nithyanandvk/LeetCode-practices/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Sorting
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0389-find-the-difference) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/nithyanandvk/LeetCode-practices/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
