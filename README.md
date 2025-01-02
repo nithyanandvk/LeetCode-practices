@@ -34,8 +34,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0283-move-zeroes) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/nithyanandvk/LeetCode-practices/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0283-move-zeroes) |
+## Greedy
+|  |
+| ------- |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/nithyanandvk/LeetCode-practices/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 <!---LeetCode Topics End-->
