@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0389-find-the-difference) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/nithyanandvk/LeetCode-practices/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Sorting
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0345-reverse-vowels-of-a-string) |
 ## Greedy
 |  |
 | ------- |
