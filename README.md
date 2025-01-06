@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0283-move-zeroes](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0283-move-zeroes) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/nithyanandvk/LeetCode-practices/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## Two Pointers
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/nithyanandvk/LeetCode-practices/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
