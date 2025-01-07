@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0160-intersection-of-two-linked-lists) |
 | [0389-find-the-difference](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0389-find-the-difference) |
 ## String
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0345-reverse-vowels-of-a-string) |
 ## Greedy
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/nithyanandvk/LeetCode-practices/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
