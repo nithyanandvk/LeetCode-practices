@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0110-balanced-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0783-search-in-a-binary-search-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/nithyanandvk/LeetCode-practices/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -81,8 +82,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0110-balanced-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0783-search-in-a-binary-search-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/nithyanandvk/LeetCode-practices/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0110-balanced-binary-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/nithyanandvk/LeetCode-practices/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 <!---LeetCode Topics End-->
