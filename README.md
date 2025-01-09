@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0029-divide-two-integers) |
+| [0968-beautiful-array](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0968-beautiful-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0046-permutations) |
 | [0283-move-zeroes](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0283-move-zeroes) |
+| [0968-beautiful-array](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0968-beautiful-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/nithyanandvk/LeetCode-practices/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/nithyanandvk/LeetCode-practices/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/nithyanandvk/LeetCode-practices/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0968-beautiful-array](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0968-beautiful-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/nithyanandvk/LeetCode-practices/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
