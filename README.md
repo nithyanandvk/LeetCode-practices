@@ -24,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0389-find-the-difference) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/nithyanandvk/LeetCode-practices/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/nithyanandvk/LeetCode-practices/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Sorting
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0389-find-the-difference) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/nithyanandvk/LeetCode-practices/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/nithyanandvk/LeetCode-practices/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0283-move-zeroes](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0283-move-zeroes) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/nithyanandvk/LeetCode-practices/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/nithyanandvk/LeetCode-practices/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/nithyanandvk/LeetCode-practices/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## Two Pointers
 |  |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/nithyanandvk/LeetCode-practices/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/nithyanandvk/LeetCode-practices/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Linked List
 |  |
 | ------- |
@@ -88,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0110-balanced-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/nithyanandvk/LeetCode-practices/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/nithyanandvk/LeetCode-practices/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+## Quickselect
+|  |
+| ------- |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/nithyanandvk/LeetCode-practices/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
