@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0389-find-the-difference) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/nithyanandvk/LeetCode-practices/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0345-reverse-vowels-of-a-string) |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0046-permutations) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
