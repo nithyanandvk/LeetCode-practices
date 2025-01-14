@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0389-find-the-difference) |
+| [1019-squares-of-a-sorted-array](https://github.com/nithyanandvk/LeetCode-practices/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/nithyanandvk/LeetCode-practices/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/nithyanandvk/LeetCode-practices/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Prefix Sum
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0283-move-zeroes) |
 | [0968-beautiful-array](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0968-beautiful-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/nithyanandvk/LeetCode-practices/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/nithyanandvk/LeetCode-practices/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/nithyanandvk/LeetCode-practices/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/nithyanandvk/LeetCode-practices/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nithyanandvk/LeetCode-practices/tree/master/0345-reverse-vowels-of-a-string) |
+| [1019-squares-of-a-sorted-array](https://github.com/nithyanandvk/LeetCode-practices/tree/master/1019-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
